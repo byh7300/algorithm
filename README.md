@@ -28,3 +28,5 @@ this algorihm deals with utilized two points problem. the problem easily served 
 # Q10.java
 ## 최솟값 찾기
 이 문제는 deque 활용 문제로 자료구조를 활용하여 index,value 값을 기반으로 중복되는 정렬 문제를 피하여 빅오를 o(n)까지 줄이는 문제입니다. sliding window가 deque라는 점을 이용하면 됩니다. 
+# Q_23.java
+## dfs
