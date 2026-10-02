@@ -16,11 +16,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-##Q_03
+# algorithm_examples and exercise 
+## Q_03
 
 this algorihm deals with range_sum problem. in case we should challenged by o(n^2) problem that over limit. but additional buffer can reduce the time consuming to o(n).
 
-##App.java
+## App.java
 
 this algorihm deals with utilized two points problem. the problem easily served as Combination time ideas. but computation ideas called as two point algorithm can lowers time complexity to o(n) 
