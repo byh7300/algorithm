@@ -24,3 +24,7 @@ this algorihm deals with range_sum problem. in case we should challenged by o(n^
 ## App.java
 
 this algorihm deals with utilized two points problem. the problem easily served as Combination time ideas. but computation ideas called as two point algorithm can lowers time complexity to o(n) 
+
+# Q10.java
+## 최솟값 찾기
+이 문제는 deque 활용 문제로 자료구조를 활용하여 index,value 값을 기반으로 중복되는 정렬 문제를 피하여 빅오를 o(n)까지 줄이는 문제입니다. sliding window가 deque라는 점을 이용하면 됩니다. 
