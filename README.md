@@ -40,3 +40,8 @@ this algorihm deals with utilized two points problem. the problem easily served 
 ## 원하는 정수찾기
 
 n^2 algorithm을 nlong 으로 줄이기 위해 이진 탐색 알고리즘을 사용한다. 자료구조는 array 사용한다.
+
+# Q_36.java
+## 최솟값을 만드는 괄호 배치 찾기
+
+뺴기는 결합법칙이 성립되지 않고 연속된 +값을 최대로 하는 -그룹을 만드는 그리디 알고리즘을 생성하여 계산.
