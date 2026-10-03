@@ -35,3 +35,8 @@ this algorihm deals with utilized two points problem. the problem easily served 
 ## dfs,bfs
 
 그래프를 arraylinkedlist로 구현한 후 dfs bfs를 이용하여 문제를 해결하는 알고리즘이다.
+
+# Q_29.java
+## 원하는 정수찾기
+
+n^2 algorithm을 nlong 으로 줄이기 위해 이진 탐색 알고리즘을 사용한다. 자료구조는 array 사용한다.
