@@ -30,3 +30,8 @@ this algorihm deals with utilized two points problem. the problem easily served 
 이 문제는 deque 활용 문제로 자료구조를 활용하여 index,value 값을 기반으로 중복되는 정렬 문제를 피하여 빅오를 o(n)까지 줄이는 문제입니다. sliding window가 deque라는 점을 이용하면 됩니다. 
 # Q_23.java
 ## dfs
+그래프에서 트리 추출하는 알고리즘의 변형이다. 트리의 개수를 구하여 연결점을 찾는 알고리즘이다.
+# Q_26.java
+## dfs,bfs
+
+그래프를 arraylinkedlist로 구현한 후 dfs bfs를 이용하여 문제를 해결하는 알고리즘이다.
